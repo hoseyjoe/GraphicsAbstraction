@@ -1,0 +1,16 @@
+{
+    "name": "flash abstraction",
+    "url" : "https://svn.realitycharting.local/svn/Orca/trunk/Squid",
+    "license": "ARCA",
+    "tags": ["none"],
+    "description": "flash abstraction layer",
+    "version": "0.0.1",
+    "classPath": "src/",
+    "releasenote": "Initial release, everything is working correctly.",
+    "contributors": ["Joe Williamson"],
+    "dependencies": {
+      "haxe-strings": "",
+      "tink_json": "",
+       "record-macros":""
+    }
+  }
